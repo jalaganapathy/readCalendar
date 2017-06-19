@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">readcalendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="planets_array"></string-array>
+
+    <string name="button_export">Export</string>
+    <string name="button_sync">Sync</string>
+    <string name="text_label">Calendars Available</string>
+    <string name="title_activity_dialog_tools">DialogTools</string>
+    <string name="dialog_choosefilename_title">Choose filename</string>
+    <string name="dialog_choosefilename_message">Please enter filename below</string>
+    <string name="dialog_proceed">Proceed</string>
+    <string name="title_activity_sync_cal">SyncCal</string>
+
+        
+
+</resources>
